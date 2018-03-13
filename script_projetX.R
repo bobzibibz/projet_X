@@ -4,3 +4,4 @@ x <- x[1]
 
 #pure fonction
 x <- "Vous en etes ou ?"
+# la valeur de x
